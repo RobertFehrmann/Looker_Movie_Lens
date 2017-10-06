@@ -7,3 +7,7 @@ include: "*.view"
 include: "*.dashboard"
 
 explore: movie {}
+
+explore: movie_vw {}
+
+explore: rating_detail_vw {}
